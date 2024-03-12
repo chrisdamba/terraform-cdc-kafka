@@ -1,4 +1,4 @@
-**# Terraform Project: AWS RDS Integration with Confluent Kafka (Community Edition), CDC Connector Debezium Infrastructure**
+# Terraform Project: AWS RDS Integration with Confluent Kafka (Community Edition), CDC Connector Debezium Infrastructure
 
 This Terraform project provides a modular and reproducible way to provision the infrastructure required for robust Kafka streaming with Change Data Capture (CDC) from an AWS RDS PostgreSQL database to a self-managed Confluent Kafka cluster.
 
